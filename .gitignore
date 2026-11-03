@@ -1,0 +1,10 @@
+# 数据与标注不上传（体积大，且原始数据不便公开）
+data/
+*.jpg
+*.jpeg
+*.png
+*.json
+!docs/*.md
+__pycache__/
+*.pyc
+.DS_Store
